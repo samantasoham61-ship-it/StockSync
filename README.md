@@ -1,2 +1,2 @@
-# ReclaimHub
- A Lost AND Found Application
+# StockSync
+ A Stock Management System
